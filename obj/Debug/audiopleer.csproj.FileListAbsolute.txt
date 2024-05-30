@@ -1,0 +1,17 @@
+C:\Users\asus\source\repos\audiopleer\audiopleer\bin\Debug\audiopleer.exe.config
+C:\Users\asus\source\repos\audiopleer\audiopleer\bin\Debug\audiopleer.exe
+C:\Users\asus\source\repos\audiopleer\audiopleer\bin\Debug\audiopleer.pdb
+C:\Users\asus\source\repos\audiopleer\audiopleer\obj\Debug\audiopleer.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\audiopleer\audiopleer\obj\Debug\MainWindow.g.cs
+C:\Users\asus\source\repos\audiopleer\audiopleer\obj\Debug\Window1.g.cs
+C:\Users\asus\source\repos\audiopleer\audiopleer\obj\Debug\App.g.cs
+C:\Users\asus\source\repos\audiopleer\audiopleer\obj\Debug\audiopleer_MarkupCompile.cache
+C:\Users\asus\source\repos\audiopleer\audiopleer\obj\Debug\audiopleer_MarkupCompile.lref
+C:\Users\asus\source\repos\audiopleer\audiopleer\obj\Debug\MainWindow.baml
+C:\Users\asus\source\repos\audiopleer\audiopleer\obj\Debug\Window1.baml
+C:\Users\asus\source\repos\audiopleer\audiopleer\obj\Debug\audiopleer.g.resources
+C:\Users\asus\source\repos\audiopleer\audiopleer\obj\Debug\audiopleer.Properties.Resources.resources
+C:\Users\asus\source\repos\audiopleer\audiopleer\obj\Debug\audiopleer.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\audiopleer\audiopleer\obj\Debug\audiopleer.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\audiopleer\audiopleer\obj\Debug\audiopleer.exe
+C:\Users\asus\source\repos\audiopleer\audiopleer\obj\Debug\audiopleer.pdb
